@@ -1,0 +1,9 @@
+---
+- hosts: git
+  become: yes
+  gather_facts: yes
+  tasks:
+  - name: i want to install git
+    apt:
+      name: git
+      state: present
