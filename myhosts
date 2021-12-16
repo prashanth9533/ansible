@@ -4,4 +4,12 @@
 172.31.47.137
 
 
-[mywebserver: var]
+[myubuntuservers]
+172.31.33.85
+172.31.47.137
+
+[myRedHatservers]
+172.31.6.71
+
+
+[mywebservers:vars]
