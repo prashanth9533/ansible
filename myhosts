@@ -3,10 +3,14 @@
 172.31.6.71
 172.31.47.137
 
+[myapplicationserver]
+172.31.47.62
 
 [myubuntuservers]
 172.31.33.85
 172.31.47.137
+172.31.47.62
+
 
 [myRedHatservers]
 172.31.6.71
